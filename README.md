@@ -15,14 +15,19 @@ Adoro colocar a mão na massa, resolver problemas e aprender algo novo a cada di
 
 🚀 Áreas que curto trabalhar:
 
-Desenvolvimento Web
-Automação de Processos
-Segurança da Informação
-IA e tudo que envolve inovação
+Desenvolvimento Web <br>
+Automação de Processos <br>
+Segurança da Informação <br>
+IA e tudo que envolve inovação <br>
 Se você também é movido por desafios e gosta de trocar ideias, bora conversar! 👊</p>
 <hr>
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<h3 align="left">Statistic</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPortela01)]
 
 ###
 
@@ -33,13 +38,16 @@ Se você também é movido por desafios e gosta de trocar ideias, bora conversar
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img width="12" />        
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongo logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
+  <img width="12" />    
 </div>
 
 ###
