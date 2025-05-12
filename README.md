@@ -42,7 +42,14 @@ Se você também curte trocar ideias e construir soluções, bora conversar! �
 
 ## 🌐 Social Networks / Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victorportelav)  
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:seuemail@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:victorportela1010@gmail.com)
+
+---
+
+## 📌 Projetos em Destaque
+
+- [**Costs**](https://github.com/VictorPortela01/costs): App de controle financeiro feito em React e Sass, com roteamento dinâmico.
+- [**MiniBlog**](https://github.com/VictorPortela01/miniblog): CRUD completo com Firebase para prática de autenticação e banco de dados.
 
 ---
 
