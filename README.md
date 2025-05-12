@@ -42,7 +42,7 @@ Se você também curte trocar ideias e construir soluções, bora conversar! �
 
 ## 🌐 Social Networks / Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victorportelav)  
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:victorportela1010@gmail.com)
+[![Gmail](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:victorportela1010@gmail.com)
 
 ---
 
