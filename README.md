@@ -47,9 +47,6 @@ Se você também curte trocar ideias e construir soluções, bora conversar! �
   <a href="https://github.com/VictorPortela01/projeto-financeiro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPortela01&repo=projeto-financeiro&theme=radical" alt="Projeto Financeiro" />
   </a>
-  <a href="https://github.com/VictorPortela01/miniblog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorPortela01&repo=miniblog&theme=radical" alt="Projeto MiniBlog" />
-  </a>
 </p>
 
 ---
